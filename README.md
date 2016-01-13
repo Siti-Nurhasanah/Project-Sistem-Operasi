@@ -1,2 +1,2 @@
 # Project-Sistem-Operasi
-Menampilkan Sistem operasi, IP Address yang dari Client
+Menampilkan Sistem operasi, IP Address dari Client
